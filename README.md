@@ -12,7 +12,7 @@ What started as “learn just enough Python to get by” spiraled into:
 - Discovering I really like building things that make other people’s lives easier
 
 ### 🎨 Current Project: Python With Training Wheels
-A playful tool that turns CSVs + dropdown menus into beautiful Seaborn plots — and gives you the Python code too.
+A playful tool that turns CSVs + dropdown menus into beautiful plots through Matplotlib and Seaborn — and gives you the Python code too.
 
 It does:
 - Let you explore data visually, without writing a line of code
