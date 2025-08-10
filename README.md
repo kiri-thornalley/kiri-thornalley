@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Kiri
 
 ### 🔬 From Pipettes to Python
-I started out with a PhD in Pharmacy & Biomedical Sciences and somehow — entirely unintentionally — ended up a full-stack developer. It turns out that solving problems, asking questions, and building cool things crosses disciplines pretty easily.
+I started out with a PhD in Pharmacy & Biomedical Sciences and somehow — entirely unintentionally — ended up really loving coding. It turns out that solving problems, asking questions, and building cool things crosses disciplines pretty easily.
 
 What started as “learn just enough Python to get by” spiraled into:
 - Rebooting long-lost HTML & CSS skills
