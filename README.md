@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm Kiri
-**Should not be left unsupervised with an idea.**
 
 ### 🔬 From Pipettes to Python
 I started out with a PhD in Pharmacy & Biomedical Sciences and somehow — entirely unintentionally — ended up a full-stack developer. It turns out that solving problems, asking questions, and building cool things crosses disciplines pretty easily.
@@ -30,13 +29,5 @@ It doesn’t:
 - HTML/CSS/JavaScript
 - Git & GitHub
 - Science-driven problem solving
-
-### ☕ Fun Facts
-- I did not mean to become a developer, but I’m having a blast.
-- I still don’t fully believe AJAX is real.
-- I think matplotlib should come with training wheels.
-- My most dangerous coding tool is boredom.
-
-
 
 
